@@ -1,0 +1,7 @@
+{
+  "name": "GrooveAI - Pro Dance Trainer",
+  "description": "A real-time dance step prediction and coaching app using AI pose detection to track movement and provide professional feedback.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
